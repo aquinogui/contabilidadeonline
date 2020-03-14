@@ -1,0 +1,27 @@
+[12-Apr-2018 15:22:24 America/New_York] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home2/contionlinecom/public_html/novo/includes/header.php on line 7
+[12-Apr-2018 15:22:24 America/New_York] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home2/contionlinecom/public_html/novo/includes/header.php on line 8
+[12-Apr-2018 15:22:24 America/New_York] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home2/contionlinecom/public_html/novo/includes/header.php on line 9
+[12-Apr-2018 15:22:24 America/New_York] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home2/contionlinecom/public_html/novo/includes/header.php on line 10
+[12-Apr-2018 15:22:24 America/New_York] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home2/contionlinecom/public_html/novo/includes/header.php on line 19
+[12-Apr-2018 15:22:24 America/New_York] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home2/contionlinecom/public_html/novo/includes/header.php on line 20
+[12-Apr-2018 15:22:24 America/New_York] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home2/contionlinecom/public_html/novo/includes/header.php on line 21
+[12-Apr-2018 15:22:24 America/New_York] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home2/contionlinecom/public_html/novo/includes/header.php on line 22
+[12-Apr-2018 15:22:24 America/New_York] PHP Fatal error:  Class 'Connector' not found in /home2/contionlinecom/public_html/novo/modelo.php on line 5
+[12-Apr-2018 15:22:24 America/New_York] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home2/contionlinecom/public_html/novo/includes/header.php on line 7
+[12-Apr-2018 15:22:24 America/New_York] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home2/contionlinecom/public_html/novo/includes/header.php on line 8
+[12-Apr-2018 15:22:24 America/New_York] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home2/contionlinecom/public_html/novo/includes/header.php on line 9
+[12-Apr-2018 15:22:24 America/New_York] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home2/contionlinecom/public_html/novo/includes/header.php on line 10
+[12-Apr-2018 15:22:24 America/New_York] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home2/contionlinecom/public_html/novo/includes/header.php on line 19
+[12-Apr-2018 15:22:24 America/New_York] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home2/contionlinecom/public_html/novo/includes/header.php on line 20
+[12-Apr-2018 15:22:24 America/New_York] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home2/contionlinecom/public_html/novo/includes/header.php on line 21
+[12-Apr-2018 15:22:24 America/New_York] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home2/contionlinecom/public_html/novo/includes/header.php on line 22
+[12-Apr-2018 20:21:05 America/New_York] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home2/contionlinecom/public_html/novo/includes/header.php on line 7
+[12-Apr-2018 20:21:05 America/New_York] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home2/contionlinecom/public_html/novo/includes/header.php on line 8
+[12-Apr-2018 20:21:05 America/New_York] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home2/contionlinecom/public_html/novo/includes/header.php on line 9
+[12-Apr-2018 20:21:05 America/New_York] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home2/contionlinecom/public_html/novo/includes/header.php on line 10
+[12-Apr-2018 20:21:05 America/New_York] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home2/contionlinecom/public_html/novo/includes/header.php on line 19
+[12-Apr-2018 20:21:05 America/New_York] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home2/contionlinecom/public_html/novo/includes/header.php on line 20
+[12-Apr-2018 20:21:05 America/New_York] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home2/contionlinecom/public_html/novo/includes/header.php on line 21
+[12-Apr-2018 20:21:05 America/New_York] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home2/contionlinecom/public_html/novo/includes/header.php on line 22
+[12-Apr-2018 20:21:05 America/New_York] PHP Fatal error:  Class 'Connector' not found in /home2/contionlinecom/public_html/novo/modelo.php on line 5
+[17-Apr-2018 19:28:59 America/New_York] PHP Fatal error:  Class 'Connector' not found in /home2/contionlinecom/public_html/novo/modelo.php on line 5

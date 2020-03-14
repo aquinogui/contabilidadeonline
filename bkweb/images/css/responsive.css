@@ -1,0 +1,264 @@
+@media (max-width: 1200px) {
+    #facilite img {
+        max-width: 50%;
+    }
+    #toggle {
+        display: block;
+    }
+    nav {
+        visibility: hidden;
+    }
+    .service img {
+        margin-bottom: 35px;
+    }
+    
+    iframe {width: 95%; }
+}
+
+@media (max-width: 990px) {
+    .service {
+        width: 46%;
+        
+    }
+    .box {
+        width: 45%;
+        padding: 0;
+        display: block;
+        padding-bottom: 20px;
+    }
+    #facilite img {
+        max-width: 30%;
+    }
+    .text-facilite {
+        width: 55%;
+    }
+    .logo-footer {
+        width: 100%;
+    }
+    .logo-footer img {
+        display: block;
+        margin: 0 auto;
+    }
+    .copy,
+    .fale-conosco {
+        padding: 15px;
+        width: 45%;
+    }
+    .content-in {
+        width: 53%;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    sidebar {
+        width: 40%;
+        padding-left: 15px;
+    }
+    
+    .banner-in h1 {padding-left: 25px;}
+    
+    iframe {width: 100%;}
+}
+
+@media (max-width: 653px) {
+    #facilite img {
+        max-width: 70%;
+        display: block;
+        margin: 0 auto;
+        margin-bottom: 35px;
+        float: none;
+    }
+    .text-facilite {
+        width: 90%;
+        margin: 0 auto;
+        float: none;
+    }
+    .box {
+        width: 95%;
+    }
+    .fale-conosco,
+    .copy {
+        width: 100%;
+        padding: 0;
+        text-align: center;
+        max-width: none;
+    }
+    .content-in {
+        width: 90%;
+        float: none;
+        margin: 0 auto;
+    }
+    sidebar {
+        width: 100%;
+        float: none;
+    }
+    
+    .service img {margin-bottom: 40px;}
+}
+
+@media (max-width: 990px) {
+    .service {
+        width: 41%;
+    }
+}
+
+@media (max-width: 580px) {
+    .icon {
+        margin-left: 15px;
+    }
+    .service {
+        width: 100%;
+        display: block;
+        margin: 0 auto;
+        min-height: 110px;
+    }
+    .service img {
+        margin-bottom: 0;
+    }
+    .service p {
+        width: 100%;
+        padding: 0 15px;
+    }
+    .box {
+        min-height: 220px;
+    }
+    #facilite button {
+        display: block;
+        margin: 0 auto;
+        margin-top: 35PX;
+    }
+    .text {
+        left: 13px;
+    }
+}
+
+@media (max-width: 520px) {
+    .centraliza {
+        width: 100%;
+    }
+    .btns {
+        display: block;
+        margin: 0 auto;
+        width: 100%;
+    }
+    
+    iframe {height: 300px;}
+}
+
+@media (max-width: 415px) {
+    #logo img {
+        max-width: 88%;
+        padding-top: 5px;
+        padding-left: 13px;
+    }
+    
+    #toggle {
+        right: 20px;
+    }
+}
+
+
+/* CONTATO MEDIA QUERIES */
+
+@media only screen and (max-width: 1266px) {
+    .section2 {
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 960px) {
+    .container-contato {
+        padding: 0 19px 0px;
+    }
+    .section2 .col2 {
+        width: 100%;
+        display: block;
+    }
+    .section2 .col2.first {
+        margin-bottom: 10px;
+    }
+    .section2 .col2.column2 {
+        padding: 0;
+    }
+    body .sec2map {
+        height: 250px !important;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .section2 .sec2addr {
+        font-size: 14px;
+    }
+    .section2 .sec2contactform h3 {
+        font-size: 16px;
+    }
+    .section2 .sec2contactform input[type="text"],
+    .section2 .sec2contactform input[type="email"],
+    .section2 .sec2contactform textarea {
+        padding: 10px;
+        margin: 3px 0;
+    }
+    .section2 .sec2contactform input[type="submit"] {
+        padding: 10px 30px;
+        font-size: 14px;
+    }
+}
+
+@media only screen and (max-width: 420px) {
+    .section1 h1 {
+        font-size: 28px;
+    }
+}
+
+
+
+/* contato*/
+
+@media only screen and (max-width: 1266px) {
+    .section2 {
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 960px) {
+    .container-contato {
+        padding: 0 30px 70px;
+    }
+    .section2 .col2 {
+        width: 100%;
+        display: block;
+    }
+    .section2 .col2.first {
+        margin-bottom: 10px;
+    }
+    .section2 .col2.column2 {
+        padding: 0;
+    }
+    body .sec2map {
+        height: 250px !important;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .section2 .sec2addr {
+        font-size: 14px;
+    }
+    .section2 .sec2contactform h3 {
+        font-size: 16px;
+    }
+    .section2 .sec2contactform input[type="text"],
+    .section2 .sec2contactform input[type="email"],
+    .section2 .sec2contactform textarea {
+        padding: 10px;
+        margin: 3px 0;
+    }
+    .section2 .sec2contactform input[type="submit"] {
+        padding: 10px 30px;
+        font-size: 14px;
+    }
+}
+
+@media only screen and (max-width: 420px) {
+    .section1 h1 {
+        font-size: 28px;
+    }
+}
